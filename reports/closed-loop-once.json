@@ -1,0 +1,32 @@
+{
+  "energy": {},
+  "final": {
+    "gas_mass": 2793.14912002091,
+    "gas_y": 126.256306961796,
+    "sand_counts": [
+      2395,
+      2591,
+      2546
+    ]
+  },
+  "initial": {
+    "gas_mass": 2793.14912002091,
+    "gas_y": 126.256306961796,
+    "sand_counts": [
+      2395,
+      2591,
+      2546
+    ]
+  },
+  "rise_at_least_one_cell": false,
+  "rise_cells": 0.0,
+  "sand_conserved": true,
+  "scene": "sandscape.tscn",
+  "source": "Recorded 90000-tick stalled phase/material/populations; existing reconstructed fixture has zero residual and initialized movement stamps; not a full historical journal.",
+  "requested_ticks": 2000,
+  "completed_ticks": 0,
+  "validation_status": "INVALID: GPU result buffer allocation failed before evolution",
+  "physical_acceptance": false,
+  "energy_sign": "Not evaluated; no valid transaction ran",
+  "allocation_fix": "Source corrected after the single attempt; not rerun"
+}

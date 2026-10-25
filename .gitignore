@@ -1,0 +1,28 @@
+# Godot cache and local engine/runtime
+.godot/
+.tools/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Builds and local sessions
+dist/
+user-data/
+logs/
+
+# Generated diagnostics; retain written reports and the last requested result
+reports/*
+!reports/*.md
+!reports/closed-loop-once.json
+
+# Local secrets and editor/system files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

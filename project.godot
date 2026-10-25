@@ -1,0 +1,24 @@
+; Digital Sandscape - Godot 4.7.2 Standard
+config_version=5
+
+[application]
+config/name="Digital Sandscape"
+run/main_scene="res://sandscape.tscn"
+config/features=PackedStringArray("4.7", "Mobile")
+
+[display]
+window/size/viewport_width=960
+window/size/viewport_height=820
+window/size/window_width_override=960
+window/size/window_height_override=820
+window/stretch/mode="canvas_items"
+
+[rendering]
+renderer/rendering_method="mobile"
+renderer/rendering_method.mobile="mobile"
+textures/default_filters/use_nearest_mipmap_filter=false
+environment/defaults/default_clear_color=Color(0.055, 0.06, 0.065, 1)
+
+[application_settings]
+simulation/size=256
+simulation/seed=20261024

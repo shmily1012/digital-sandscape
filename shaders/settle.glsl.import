@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cgbvv86qxl83y"
+path="res://.godot/imported/settle.glsl-1ae586b5b5d7bf8972e12f428a77d511.res"
+
+[deps]
+
+source_file="res://shaders/settle.glsl"
+dest_files=["res://.godot/imported/settle.glsl-1ae586b5b5d7bf8972e12f428a77d511.res"]
+
+[params]
+
